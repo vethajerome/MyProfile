@@ -1,0 +1,41 @@
+*{
+margin:0px;
+padding:0px;
+box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+    
+}
+.image
+{
+    width:100%;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    
+    
+}
+ img{
+    height: 300px;
+    width: 400px;
+    border-radius:50%;
+    border:10px solid black;
+}
+center 
+{ 
+    font-size:100px;
+    padding: 50px;
+
+}
+.back
+{
+    background-color:white
+    
+}
+.down
+{  
+    display:flex;
+    justify-content: start;
+    padding: 50px;
+}
